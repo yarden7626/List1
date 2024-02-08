@@ -1,20 +1,20 @@
 <resources>
 
-    <string name="fruit">banana</string>
-    <string name="color">blue</string>
-    <string name="city">Tel Aviv</string>
-    <string name="animal">dog</string>
-    <string name="subject">math</string>
-    <string name="job">lawyer</string>
-    <string name="country">France</string>
-    <string name="drink">coffee</string>
-    <string name="clothes">shirt</string>
-    <string name="flower">rose</string>
-    <string name="season">summer</string>
-    <string name="language">english</string>
-    <string name="furniture">desk</string>
-    <string name="family">mom</string>
-    <string name="bird">crow</string>
+    <string name="app_name">RecylcerWiewWithActions</string>
+    <string-array name="Animals">
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Lion</item>
+        <item>Elephant</item>
+        <item>giraffe</item>
+        <item>butterfly</item>
+        <item>Cow</item>
+        <item>Bear</item>
+        <item>Pig</item>
+        <item>Donkey</item>
+        <item>Zebra</item>
+        <item>horse</item>
+    </string-array>
 
 
 </resources>
